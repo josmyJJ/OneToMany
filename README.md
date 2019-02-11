@@ -1,3 +1,3 @@
 # OneToMany
 
-This application demonstrates one to one relationship using spring boot framework. 
+This application demonstrates one to many relationship using spring boot framework. 
